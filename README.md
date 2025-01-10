@@ -37,16 +37,17 @@ Automated way to extract juicy info with subfinder and waybackurls
  2. Go to grep-backURls directory and give permission to main.go
  3. Run command ./main.go
 
-## 💓 Credits:
+### 💓 Credits:
  
 
- 1. @tomnomnom for developing waybackurls
+ 1. tomnomnom for developing waybackurls
  2.  project discovery for creating subfinder.
  3. Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration. 
 
 
 
-## 📞 Contact
+### 📞 Contact
+
 
  📧 Email: pookielinuxuser@tutamail.com
 
