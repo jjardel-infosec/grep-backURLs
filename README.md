@@ -15,9 +15,9 @@ Automated way to extract juicy info with subfinder and waybackurls
  Just beacuse it uses grep command to sort out from waybackURLs link.
 
 
-##₹ ⌚ Total Time taken to build & test
+### ⌚ Total Time taken to build & test
 
- Approx 3 hr.
+ Approx 3-3:30 hr.
 
 ### 🙃Why I Created This
 
@@ -40,7 +40,7 @@ Automated way to extract juicy info with subfinder and waybackurls
 ## 💓 Credits:
  
 
- 1 . tomnomnom for developing waybackurls
+ 1. @tomnomnom for developing waybackurls
  2.  project discovery for creating subfinder.
  3. Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration. 
 
@@ -48,10 +48,10 @@ Automated way to extract juicy info with subfinder and waybackurls
 
 ## 📞 Contact
 
-### 📧 Email: pookielinuxuser@tutamail.com
+ 📧 Email: pookielinuxuser@tutamail.com
 
 
-## 📄 License
+### 📄 License
 
 ### Licensed under **MIT**
 
