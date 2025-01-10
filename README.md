@@ -23,7 +23,7 @@
 
  Cause I don't want to waste my time to find subdomains and then try each keyword from keyword.txt to check whether is there any credential or not, so decided to automate it.
 
-### 📚 Dependencies
+### 📚  Requirements & Dependencies
 
 * #### Golang
 * #### [waybackurls](https://github.com/tomnomnom/waybackurls)
