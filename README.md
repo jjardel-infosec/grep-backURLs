@@ -13,7 +13,7 @@ Automated way to extract juicy info with subfinder and waybackurls
 
 ## 🤔 Why This Name?
 
-### Just beacuse it uses grep command to sort out from waybackURLs link.
+#### Just beacuse it uses grep command to sort out from waybackURLs link.
 
 
 ## ⌚ Total Time taken to build & test
