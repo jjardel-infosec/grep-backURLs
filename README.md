@@ -6,12 +6,11 @@
 #### grep-backURLs : Automated way to find juicy information from website 
 
 ### 📌 Overview
-===============
+
 
  *_grep-backURLs_* is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials.
 
 ### 🤔 Why This Name?
-===============
 
  Just beacuse it uses grep command to sort out from waybackURLs link.
 
