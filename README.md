@@ -13,16 +13,16 @@ Automated way to extract juicy info with subfinder and waybackurls
 
 ## 🤔 Why This Name?
 
-#### Just beacuse it uses grep command to sort out from waybackURLs link.
+ Just beacuse it uses grep command to sort out from waybackURLs link.
 
 
 ## ⌚ Total Time taken to build & test
 
-### Approx 3 hr.
+ Approx 3 hr.
 
 ## 🙃Why I Created This
 
-### Cause I don't want to waste my time to find subdomains and then try each keyword from keyword.txt to check whether is there any credential or not. 
+ Cause I don't want to waste my time to find subdomains and then try each keyword from keyword.txt to check whether is there any credential or not. 
 
 ## 📚 Dependencies
 
