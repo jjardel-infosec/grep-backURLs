@@ -4,33 +4,33 @@ Automated way to extract juicy info with subfinder and waybackurls
 🚀 Project Name : grep-backURLs
 ===============
 
-### grep-backURLs : Automated way to find juicy information from website 
+## grep-backURLs : Automated way to find juicy information from website 
 
-# 📌 Overview
+## 📌 Overview
 
 
 ### <span style="color:yellow"> *_grep-backURLs_* </span> is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials.
 
-# 🤔 Why This Name?
+## 🤔 Why This Name?
 
 ### Just beacuse it uses grep command to sort out from waybackURLs link.
 
 
-# ⌚ Total Time taken to build & test
+## ⌚ Total Time taken to build & test
 
 ### Approx 3 hr.
 
-# 🙃Why I Created This
+## 🙃Why I Created This
 
 ### Cause I don't want to waste my time to find subdomains and then try each keyword from keyword.txt to check whether is there any credential or not. 
 
-# 📚 Dependencies
+## 📚 Dependencies
 
 * ### Golang
 * ### [waybackurls](https://github.com/tomnomnom/waybackurls)
 * ### [subfinder](https://github.com/projectdiscovery/subfinder)
 
-# 📥 Installation Guide
+## 📥 Installation Guide
 
 ### ⚡ Quick Install:
 
@@ -38,7 +38,7 @@ Automated way to extract juicy info with subfinder and waybackurls
 ### 2. Go to grep-backURls directory and give permission to main.go
 ### 3. Run command ./main.go
 
-# 💓 Credits:
+## 💓 Credits:
  
 
 ### 1 . tomnomnom for developing waybackurls
@@ -47,12 +47,12 @@ Automated way to extract juicy info with subfinder and waybackurls
 
 
 
-# 📞 Contact
+## 📞 Contact
 
 ### 📧 Email: pookielinuxuser@tutamail.com
 
 
-# 📄 License
+## 📄 License
 
 ### Licensed under **MIT**
 
