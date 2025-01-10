@@ -39,8 +39,8 @@
 ### 💓 Credits:
 
 
- 1. tomnomnom for developing waybackurls
- 2.  project discovery for creating subfinder.
+ * #### [tomnomnom](https://github.com/tomnomnom) for developing waybackurls
+ 2.  [project discovery](https://github.com/projectdiscovery)for creating subfinder.
  3. Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration. 
 
 
