@@ -25,8 +25,8 @@
 ### 📚 Dependencies
 
 * #### Golang
-* ### [waybackurls](https://github.com/tomnomnom/waybackurls)
-* ### [subfinder](https://github.com/projectdiscovery/subfinder)
+* #### [waybackurls](https://github.com/tomnomnom/waybackurls)
+* #### [subfinder](https://github.com/projectdiscovery/subfinder)
 
 ### 📥 Installation Guide
 
