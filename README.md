@@ -40,7 +40,7 @@ Automated way to extract juicy info with subfinder and waybackurls
 ### 💓 Credits:
 
 
- ###### 1. tomnomnom for developing waybackurls
+###### 1. tomnomnom for developing waybackurls
  2.  project discovery for creating subfinder.
  3. Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration. 
 
