@@ -54,6 +54,6 @@ Automated way to extract juicy info with subfinder and waybackurls
 
 ### 📄 License
 
-### Licensed under **MIT**
+Licensed under **MIT**
 
-### 🕒 Last Updated: January 10, 2025 
+🕒 Last Updated: January 10, 2025 
