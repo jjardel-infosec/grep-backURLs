@@ -123,5 +123,109 @@ myspl
 sql
 insert\s+into
 
+# File Extensions (Additional Sensitive Files)
+\.env$
+\.config$
+\.conf$
+\.bak$
+\.backup$
+\.sql$
+\.db$
+\.sqlite$
+\.pem$
+\.key$
+\.crt$
+\.cer$
+\.p12$
+\.pfx$
+\.log$
+\.old$
+\.swp$
+\.yaml$
+\.yml$
+
+# API and Authentication
+(?i)(api[_-]?key|access[_-]?token|secret[_-]?key)=[^&]*
+(?i)bearer\s+[a-zA-Z0-9\-\._~\+\/]+=*
+(?i)basic\s+[a-zA-Z0-9\-\._~\+\/]+=*
+(?i)auth[a-zA-Z0-9]*=
+(?i)jwt=
+
+# Sensitive Information
+(?i)[0-9]{16}(?:[0-9]{3})?  # Credit Card Numbers
+(?i)[0-9]{3}-[0-9]{2}-[0-9]{4}  # SSN
+(?i)[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}  # Email addresses
+
+# Development and Debug
+(?i)debug=
+(?i)test=
+(?i)dev[_-]
+(?i)staging[_-]
+(?i)phpinfo
+(?i)admin[_-]
+(?i)console
+(?i)swagger
+(?i)graphql
+
+# Database Queries
+(?i)(select|insert|update|delete|union|where)\s+.*\s+from
+(?i)database=
+(?i)dbname=
+(?i)mysql://
+(?i)postgresql://
+(?i)mongodb://
+
+# Cloud Storage
+(?i)s3\.amazonaws\.com
+(?i)storage\.googleapis\.com
+(?i)blob\.core\.windows\.net
+(?i)firebasestorage\.googleapis\.com
+
+# Authentication Endpoints
+/oauth/
+/auth/
+/login/
+/signin/
+/signup/
+/register/
+/reset/
+/forgot/
+/password/
+/session/
+
+# User Related
+(?i)user[_-]?id=
+(?i)account[_-]?id=
+(?i)profile[_-]?id=
+(?i)member[_-]?id=
+(?i)customer[_-]?id=
+(?i)admin[_-]?id=
+
+# Server Information
+(?i)server[_-]
+(?i)host[_-]
+(?i)domain[_-]
+(?i)port=
+(?i)protocol=
+
+# Common Vulnerabilities
+(?i)(\.\.\/|\.\.\\)  # Directory Traversal
+(?i)<script>  # XSS
+(?i)(UNION|SELECT|INSERT|DROP|UPDATE|DELETE).*SQL  # SQL Injection
+(?i)eval\(.*\)  # Code Injection
+
+# Configuration Files
+/config/
+/settings/
+/setup/
+/install/
+/backup/
+/wp-config
+/wp-admin
+/.env
+/composer.json
+/package.json
+
+
 # URLs
 (http|https)://[a-zA-Z0-9./?=_-]*
