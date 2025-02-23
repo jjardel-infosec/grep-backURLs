@@ -49,11 +49,15 @@
 ### 📞 Contact
 
 
- 📧 Email: pookielinuxuser@tutamail.com
+ 📧 Email: jose@jardel.tec.br
+
+
+ ### Update
+* Add creation of subfolders within the main folder, to separate domains that you are looking for bounty.
 
 
 ### 📄 License
 
 Licensed under **MIT**
 
-🕒 Last Updated: January 18, 2025 
+🕒 Last Updated: February 23, 2025 
