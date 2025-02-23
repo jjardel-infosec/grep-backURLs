@@ -35,7 +35,7 @@
 
  1. Git clone this URL.
  2. Go to grep-backURls directory and give permission to main.go
- 3. Run command ./main.go
+ 3. Run command "go run main.go"
 
 ### 💓 Credits:
 
