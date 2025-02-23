@@ -42,7 +42,8 @@
 
  * #### [@tomnomnom](https://github.com/tomnomnom) for developing waybackurls
 * ####  [@project discovery](https://github.com/projectdiscovery)for creating subfinder.
-* #### Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration. 
+* #### Sathvik and his [video](https://www.youtube.com/watch?v=lp4Do_VIwzw)  for inspiration.
+* #### [@gigachad80[ (https://github.com/gigachad80) for the main tool.
 
 
 
